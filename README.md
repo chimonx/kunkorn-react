@@ -30,8 +30,8 @@ The **Post Management App** is a simple, full-featured application that allows u
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/post-management-app.git
-   cd post-management-app
+   git clone https://github.com/chimonx/kunkorn-react.git
+   cd kunkorn-react
    ```
 
 2. **Install Dependencies**:
