@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.72b6f77b.css",
-    "main.js": "/static/js/main.2e11c669.js",
-    "index.html": "/index.html",
-    "main.72b6f77b.css.map": "/static/css/main.72b6f77b.css.map",
-    "main.2e11c669.js.map": "/static/js/main.2e11c669.js.map"
+    "main.css": "/kunkorn-react/static/css/main.72b6f77b.css",
+    "main.js": "/kunkorn-react/static/js/main.58486f25.js",
+    "index.html": "/kunkorn-react/index.html",
+    "main.72b6f77b.css.map": "/kunkorn-react/static/css/main.72b6f77b.css.map",
+    "main.58486f25.js.map": "/kunkorn-react/static/js/main.58486f25.js.map"
   },
   "entrypoints": [
     "static/css/main.72b6f77b.css",
-    "static/js/main.2e11c669.js"
+    "static/js/main.58486f25.js"
   ]
 }
