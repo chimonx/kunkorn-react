@@ -103,7 +103,7 @@ If you'd like to contribute to the project, feel free to fork the repository and
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For questions or feedback, please reach out to [your-email@example.com].
+For questions or feedback, please reach out to [kunkorn.trak@bumail.net].
 
 ## Acknowledgements
 - **React**: For the front-end framework.
